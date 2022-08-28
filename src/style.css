@@ -2,10 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  h3 {
-    font-size: 1.2rem;
-    font-weight: 600;
-    color: #ad4e30;
-  }
-}
